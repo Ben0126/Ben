@@ -1,4 +1,4 @@
 # Ben
-*Welcome to My GitHub. 
-My name is Shun-Pin Yeh. 
+🔜Welcome to My GitHub. /n
+My name is Shun-Pin Yeh. /n
 📧: benzyeh@gmail.com
