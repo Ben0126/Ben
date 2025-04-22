@@ -25,7 +25,7 @@
 I'm an engineer specialized in drone systems development, reinforcement learning, and intelligent applications from Taiwan 🇹🇼.
 
 - 🎓 Bachelor's degree in **Department of Green Energy and Information Technology** from **National Taitung University**
-- 💼 Currently working as an Engineer Intern at **Electronic and Optoelectronic System Research Lab** at **Industrial Technology Research Institute (ITRI)**
+- 💼 Worked as an Engineer Intern at **Electronic and Optoelectronic System Research Lab** at **Industrial Technology Research Institute (ITRI)**
 - 🚁 Specialized in **drone control**, **reinforcement learning**, and **intelligent system integration**
 - 🔍 Exploring AI applications in autonomous systems, particularly deploying reinforcement learning in practical hardware
 - 🌐 Committed to developing intelligent systems that solve real-world problems
@@ -147,7 +147,7 @@ Feel free to reach out to me through:
 我是一名專注於無人機系統開發、強化學習與智慧應用的工程師，來自台灣🇹🇼。
 
 - 🎓 **國立台東大學** 綠能與資訊科技學系畢業
-- 💼 目前在 **工業技術研究院 (ITRI)** 光電系統研究所擔任工程師實習生
+- 💼 在 **工業技術研究院 (ITRI)** 光電系統研究所擔任過工程師實習生
 - 🚁 專長領域包括**無人機控制**、**強化學習**與**智慧系統整合**
 - 🔍 正在探索 AI 在自主系統中的應用，特別是強化學習在實際硬體上的部署
 - 🌐 致力於開發能夠解決實際問題的智能系統
