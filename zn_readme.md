@@ -1,5 +1,6 @@
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, 我是葉舜斌 (Ben)
+
 <a name="chinese-version"></a>
-# 中文版本
 
 ## 🌱 關於我
 
