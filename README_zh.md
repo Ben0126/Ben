@@ -1,4 +1,4 @@
-# Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 你好，我是葉舜斌 (Ben)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 你好，我是葉舜斌 (Ben)
 
 <div align="center">
   <a href="README.md">🇺🇸 English</a> | 
@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  weight=500&size=22&pause=1000&color=0C8AF7¢er=true&vCenter=true&width=435&lines=AI+%26+機器人工程師;無人機控制專家;強化學習研究者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0C8AF7¢er=true&vCenter=true&width=435&lines=AI+%26+Robotics+Engineer;Drone+Control+Specialist;Reinforcement+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -65,12 +65,12 @@
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
@@ -133,8 +133,8 @@
 ### 🧠 技術專長分布
 
 <div align="center">
-  <!-- 自訂技能分布 - 準確表示您的技能 -->
-  flutter,django,postgres,git&perline=3" alt="技能圖示" />
+  
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,flutter,django,postgres,git&perline=3" alt="技能圖示" />
 </div>
 
 <br>
@@ -142,20 +142,20 @@
 <div align="center">
   <table>
     <tr>
-      width="50%">
+      <td valign="top" width="50%">
         <h3 align="center">程式語言</h3>
         <div align="center">
-          badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          badge/C++-85%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-          badge/MATLAB-80%25-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/C++-85%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+          <img src="https://img.shields.io/badge/MATLAB-80%25-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
         </div>
       </td>
-      width="50%">
+      <td valign="top" width="50%">
         <h3 align="center">框架與技術</h3>
         <div align="center">
-          badge/ROS-85%25-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-          badge/flutter-80%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-          badge/PyTorch-75%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/ROS-85%25-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flutter-80%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/PyTorch-75%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
         </div>
       </td>
     </tr>
@@ -164,19 +164,20 @@
 
 ### 🌟 開發專注領域
 <div align="center">
-  badge/無人機控制-40%25-blue?style=for-the-badge" />
-  badge/強化學習-25%25-purple?style=for-the-badge" />
-  badge/行動應用開發-20%25-green?style=for-the-badge" />
-  badge/電腦視覺-15%25-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/無人機控制-40%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/強化學習-25%25-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/行動應用開發-20%25-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/電腦視覺-15%25-orange?style=for-the-badge" />
 </div>
 
 <details>
-  <summary>📈 GitHub 統計資料summary>
+  <summary>📈 GitHub 統計資料</summary>
   <div align="center">
-    height="180em" src="https://github-readme-stats.vercel.app/api?username=Ben0126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben0126&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ben0126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben0126&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
 </details>
+
 
 ## 🔗 聯絡我
 
@@ -190,5 +191,5 @@
 ---
 
 <div align="center">
-  style=flat-square&label=Profile+Views" alt="訪問人數計數器" />
+  <img src="https://komarev.com/ghpvc/?username=Ben0126&color=blue&style=flat-square&label=Profile+Views" alt="訪問人數計數器" />
 </div>
